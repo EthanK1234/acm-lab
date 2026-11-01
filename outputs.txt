@@ -1,0 +1,43 @@
+Model: deepseek-v4.1-flash Input: What is the hardest major
+Output:
+There’s no objectively “hardest” major—it depends on what “hard” means and on your aptitudes. But if people mean **high abstract difficulty + heavy workload + low average grades + strong math prerequisites**, the usual top contenders are:
+
+- **Physics** — deep math, abstract reasoning, problem-solving, and labs; very unforgiving if you fall behind.
+- **Mathematics** — proof-heavy, cumulative, and highly abstract; not just calculation.
+- **Engineering** (especially **chemical, electrical, aerospace**) — heavy math/science load, labs, projects, and strict grading.
+- **Computer Science** — varies wildly by program; can be very theoretical/math-heavy or more applied, plus high competition.
+- **Architecture** — notorious for studio hours, critique culture, and sleep deprivation, though less math-heavy.
+- **Chemistry/Biochemistry (premed tracks)** — difficult science load plus intense competition and high-stakes grading.
+- **Economics** at rigorous programs — can be very mathematical/statistical, especially at PhD-track level.
+
+If forced to pick one by common consensus of **abstract rigor and workload**, many people would say **physics** or **mathematics**; by **workload and stress**,**architecture** and **engineering** often rank high; by **competition and variability**, **computer science** and **premed science majors** are strong candidates.
+
+The real answer: the hardest major is usually the one that’s a poor fit for your strengths and interests—or a rigorous program in a field you don’t enjoy.
+"Easiest" depends on your strengths, but some majors are consistently reported as less demanding, based on average study hours (e.g., NSSE survey data) and average GPAs.
+
+
+Model: claude-sonnet-5.5 Input: What is the easiest major
+Output: 
+**Commonly cited as lighter workloads**
+- **Education**: high average GPAs, fewer hours of outside study, though student teaching is demanding.
+- **Communications**: mostly projects, presentations, and writing rather than problem sets.
+- **Psychology**: the concepts are accessible, though statistics and research methods can be a hurdle.
+- **Business administration or general business**: moderate workload, though quantitative courses like accounting and finance can be tough.
+- **Criminal justice**
+- **Sociology, anthropology, and other general social sciences**
+- **English or liberal arts**: little math, but heavy reading and writing.
+- **Hospitality or tourism management**
+
+**Consistently among the hardest** (for contrast)
+- Engineering (especially chemical, electrical, and mechanical)
+- Physics, chemistry, and math
+- Architecture
+- Nursing and pre-med tracks
+
+**Caveats**
+- **Difficulty is personal.** An English major might find calculus brutal, while an engineering student might struggle with 20-page essays.
+- **"Easy" doesn't mean "valuable."** Majors with lighter workloads often have weaker direct career pipelines, so you may need to build skills through internships and projects.
+- **Rigor varies by school.** The same major can be much harder at one university than another.
+- **Your interest matters.** You'll work harder and do better in something you like, which makes it feel easier.
+
+If you tell me what you're good at, what you enjoy, and what career you're aiming for, I can suggest majors that balance manageable workload with good outcomes.
